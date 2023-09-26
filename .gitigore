@@ -21,4 +21,5 @@
 # Project specific
 output/*.CSV*
 data/*.pdf
+data
 outfile.html.xml
